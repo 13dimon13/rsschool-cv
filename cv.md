@@ -8,3 +8,4 @@
 4. **Basic** knowledge: html, css, js, php, mysql, joomla, wordpress, photoshop. **In-depth** knowledge: SEO(Search Engine Optimization).
 5. Sorry, but the last 15 months I **worked a SEO-specialist**, so I don't have code examples.
 6. Unfortunately, I didn't work a programmer, so **I don't have** experience in this area.
+7. I graduated from BNTU and have a degree in **mechanical engineering**, and also underwent retraining at "Institute of retraining and advanced training BNTU" as a **programmer-web designer**. Then graduated from the online school "Netology", specializing in **SEO-optimization**.
