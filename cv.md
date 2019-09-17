@@ -7,3 +7,4 @@
 3. For me, this is a great opportunity to learn what I like. **My goal is to become a programmer**. I want to work in this area and enjoy my work. I quickly learn and improve my skills.
 4. **Basic** knowledge: html, css, js, php, mysql, joomla, wordpress, photoshop. **In-depth** knowledge: SEO(Search Engine Optimization).
 5. Sorry, but the last 15 months I **worked a SEO-specialist**, so I don't have code examples.
+6. Unfortunately, I didn't work a programmer, so **I don't have** experience in this area.
